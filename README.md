@@ -1,2 +1,2 @@
 # QuadranglesCodingTraining
-See name
+Go do your work.
